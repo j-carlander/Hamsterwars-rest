@@ -1,0 +1,9 @@
+.hamster-radio-btn {
+  display: grid;
+  margin-bottom: 2em;
+  width: max-content;
+}
+
+.hamster-image {
+  max-width: 250px;
+}

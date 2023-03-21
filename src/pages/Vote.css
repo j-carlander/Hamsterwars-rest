@@ -1,0 +1,13 @@
+.App {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.hamster-vote-form .hamsters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 2em;
+}
